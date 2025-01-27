@@ -26,7 +26,7 @@ const Header = () => {
     return (
         <header className="header">
             <div className="logo">
-                <span>{'{r.r}'}</span>
+                <span>{'<MH>'}</span>
                 <Hamburger className='hamburger' toggled={isOpen} size={20} toggle={toggleMenu} />
             </div>
             <nav ref={navItemsRef} className={`nav-items ${isOpen ? 'open' : 'close'}`}>
