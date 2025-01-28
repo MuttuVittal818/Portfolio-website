@@ -26,7 +26,7 @@ const Home = () => {
                     <div className='type-animation-div'>
                         <TypeAnimation
                             sequence={[
-                                'Full Stack Developer',
+                                'Java Full Stack Developer',
                                 1000,
                                 'Problem Solving Enthusiast',
                                 1000,
