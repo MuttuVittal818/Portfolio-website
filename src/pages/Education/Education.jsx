@@ -1,8 +1,8 @@
-import React from 'react'
-import './Education.scss'
+import React from 'react';
+import './Education.scss';
 
 import Lottie from 'lottie-react';
-import graduate from '../../assets/graduate.json'
+import graduate from '../../assets/graduate.json';
 
 const Education = () => {
   return (
@@ -29,7 +29,7 @@ const Education = () => {
         <div className="degrees-header-div">
           <h1>Degree Recieved</h1>
         </div>
-        <div className="degrees-body-div">
+        <div className="degrees-body-div"> 
           <div className="degree-container-div">
             <div className="degree-logo-div card">
               <img src="https://revaeduin.s3.ap-south-1.amazonaws.com/assets/frontend/images/logo-icon.png" alt="some" srcset="" />
@@ -41,7 +41,36 @@ const Education = () => {
                   <h3 className='subtitle'>B.Tech. in Computer Science and Engineering</h3>
                 </div>
                 <div className="degree-card-duration">
-                  <h3 className="duration">2020 - 2024</h3>
+                  <h3 className="duration">2021 - 2024</h3>
+                </div>
+              </div>
+              <div className="degree-card-content">
+                <p>⚡ I have studied core subjects like Data Structures, DBMS & SQL, Networking and Operating System.</p>
+                <p>⚡ I have also learnt Web Development using ReactJS for frontend, and NodeJS ,ExpressJS and MongoDB.</p>
+                <p>⚡ I have implemented several projects based on what I've learnt under my Computer Engineering</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div className="degrees-header-div">
+          <h1>Diploma Recieved</h1>
+        </div>
+
+        <div className="degrees-body-div">
+          <div className="degree-container-div">
+            <div className="degree-logo-div card">
+              <img src="https://revaeduin.s3.ap-south-1.amazonaws.com/assets/frontend/images/logo-icon.png" alt="some" srcset="" />
+            </div>
+            <div className="degree-card card">
+              <div className="degree-card-header">
+                <div className="degree-card-title">
+                  <h2 className='title'>Government Polytechnic</h2>
+                  <h3 className='subtitle'>Diploma in Computer Science and Engineering</h3>
+                </div>
+                <div className="degree-card-duration">
+                  <h3 className="duration">2018 - 2021</h3>
                 </div>
               </div>
               <div className="degree-card-content">
