@@ -1,11 +1,10 @@
-import React from 'react'
-import './Home.scss'
+import React from 'react';
+import './Home.scss';
 
-import { TypeAnimation } from 'react-type-animation';
+import { motion } from "framer-motion";
 import Lottie from 'lottie-react';
-import coder from '../../assets/coder.json'
-import { motion } from "framer-motion"
-import { variation } from '../../services/variations';
+import { TypeAnimation } from 'react-type-animation';
+import coder from '../../assets/coder.json';
 
 
 const Home = () => {
