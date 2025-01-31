@@ -61,7 +61,7 @@ const Education = () => {
         <div className="degrees-body-div">
           <div className="degree-container-div">
             <div className="degree-logo-div card">
-              <img src="https://github.com/MuttuVittal818/Portfolio-website/blob/main/src/assets/dept.jpg" alt="some" srcset="" />
+              <img src="../src/assets/gpt.png" alt="some" srcset="" />
             </div>
             <div className="degree-card card">
               <div className="degree-card-header">
