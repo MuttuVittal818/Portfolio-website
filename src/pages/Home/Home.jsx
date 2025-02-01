@@ -10,8 +10,8 @@ import coder from '../../assets/coder.json';
 const Home = () => {
     const handleDownload = () => {
         const link = document.createElement("a");
-        link.href = "/assets/Muttu_Handigund_Resume.pdf";
-        link.download = "Muttu_Handigund_Resume.pdf";
+        link.href = "../../assets/RakshithR_June_2024.pdf";
+        link.download = "RakshithR.pdf";
         link.click();
     };
     return (

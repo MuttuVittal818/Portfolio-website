@@ -74,9 +74,9 @@ const Education = () => {
                 </div>
               </div>
               <div className="degree-card-content">
-                <p>⚡ I have studied core subjects like Data Structures, DBMS & SQL, Networking and Operating System.</p>
-                <p>⚡ I have also learnt Web Development using ReactJS for frontend, and NodeJS ,ExpressJS and MongoDB.</p>
-                <p>⚡ I have implemented several projects based on what I've learnt under my Computer Engineering</p>
+                <p>⚡ I have studied subjects like Programming with C, C++, Java, DBMS & GUI, Computer Networking and Operating System.</p>
+                <p>⚡ I have also learnt Web Development using HTML, CSS, Java Script, PHP and Testing tools .</p>
+                <p>⚡ I have implemented several projects based on what I've learnt under my Computer Science & Engineering</p>
               </div>
             </div>
           </div>
