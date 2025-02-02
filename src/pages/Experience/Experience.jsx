@@ -41,11 +41,11 @@ const Experience = () => {
                     <h2>Software Engineer Intern</h2>
                   </div>
                   <div className="company-name">
-                    <h3>Myntra Designs Pvt. Ltd.,</h3>
+                    <h3>DIGITAL LIVE24,</h3>
                   </div>
                 </div>
                 <div className="card-duration">
-                  <h3>Aug, 2023 - Feb, 2024</h3>
+                  <h3>Sep, 2023 - Feb, 2024</h3>
                 </div>
               </div>
               <div className="card-content">
