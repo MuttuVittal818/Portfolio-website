@@ -38,7 +38,7 @@ const Experience = () => {
                 </div>
                 <div className="card-title">
                   <div className="role-name">
-                    <h2>Software Engineer Intern</h2>
+                    <h2>Software Developer Intern</h2>
                   </div>
                   <div className="company-name">
                     <h3>DIGITAL LIVE24,</h3>

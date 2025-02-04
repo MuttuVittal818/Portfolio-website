@@ -22,7 +22,7 @@ const Contact = () => {
             <ul>
               <li><a href="https://github.com/rakshithr0177"><img src="/icons/github.png" /></a></li>
               <li><a href="https://www.linkedin.com/in/rakshith-r-042203225/"><img src="/icons/linkedin.png" /></a></li>
-              <li><a href="mailto:rakshithr0177@gmail.com"><img src="/icons/gmail.png" /></a></li>
+              <li><a href="mailto:muttuvittal818@gmail.com"><img src="/icons/gmail.png" /></a></li>
               <li><a href="https://www.reddit.com/user/Alternative_Fail2660/"><img src="/icons/redit.png" /></a></li>
             </ul></div>
         </div>
