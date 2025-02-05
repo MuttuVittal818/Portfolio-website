@@ -34,7 +34,7 @@ const Experience = () => {
 
               <div className="card-header">
                 <div className="card-img">
-                  <img src="https://cdn.iconscout.com/icon/free/png-256/free-myntra-logo-icon-download-in-svg-png-gif-file-formats--shopping-brand-online-application-app-mobile-indian-companies-pack-logos-icons-2249158.png?f=webp&w=256" alt="" srcset="" />
+                  <img src="../src/assets/digital.jpeg" alt="" srcset="" />
                 </div>
                 <div className="card-title">
                   <div className="role-name">
