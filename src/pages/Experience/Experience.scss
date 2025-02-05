@@ -80,7 +80,7 @@
                             img {
                                 height: 60px;
                                 width: 60px;
-                                object-fit: cover; // Ensures image scales correctly
+                                object-fit: fill; // Ensures image scales correctly
                                 scale: 1;
                                 transition: all 0.4s;
 
