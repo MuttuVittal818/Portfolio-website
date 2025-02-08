@@ -20,9 +20,9 @@ const Contact = () => {
           </p>
           <div className="social-media">
             <ul>
-              <li><a href="https://github.com/MuttuVittal818/"><img src="/icons/github.png" /></a></li>
               <li><a href="http://www.linkedin.com/in/muttu-handigund/"><img src="/icons/linkedin.png" /></a></li>
               <li><a href="mailto:muttuvittal818@gmail.com"><img src="/icons/gmail.png" /></a></li>
+              <li><a href="https://github.com/MuttuVittal818/"><img src="/icons/github.png" /></a></li>
               <li><a href="https://www.reddit.com/user/Expensive_Metal2291/"><img src="/icons/redit.png" /></a></li>
             </ul></div>
         </div>
