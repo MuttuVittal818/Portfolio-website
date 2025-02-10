@@ -50,14 +50,13 @@ const Experience = () => {
               </div>
               <div className="card-content">
                 <ul>
-                  <li>
-                    ⚡<p>Developed and optimized scripts for crawling competitive platforms, enhancing the company's competitive intelligence capabilities.</p></li>
-                  <li>⚡<p>Developed and optimized scripts for crawling competitive platforms, enhancing the company's competitive intelligence capabilities.</p></li>
-
-                  <li>
-                    ⚡<p>Monitored and maintained the health of crawl jobs, proactively resolving issues to ensure reliable data collection.</p></li>
-                  <li>⚡<p>Collaborated with cross-functional teams to integrate and improve the crawling system within the existing infrastructure.</p></li>
-                  <li>⚡<p>Optimized the performance of crawling scripts, reducing execution time and resource consumption, leading to faster and more cost-effective data collection.</p></li>
+                  <li>⚡<p>I worked on a Content Management System (CMS) project, contributing to the development and enhancement of digital content management solutions.</p></li>
+                  <li>⚡<p>Assisting in the design, development, and implementation of CMS features.</p></li>
+                  <li>⚡<p>Writing clean, efficient, and maintainable code to improve content organization and accessibility.</p></li>
+                  <li>⚡<p>Collaborating with cross-functional teams to integrate user-friendly interfaces and backend functionalities.</p></li>
+                  <li>⚡<p>Debugging and troubleshooting issues to enhance system performance and reliability.</p></li>
+                  <li>⚡<p>Learning and applying best practices in software development, including version control, API integration, and database management.</p></li>
+                  <li>⚡<p>This experience helped me strengthen my technical skills in web development and gain hands-on exposure to real-world software engineering practices.</p></li>
                   <li>
                     <div className="icons">
                       <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
