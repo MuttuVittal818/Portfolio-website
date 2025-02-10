@@ -45,12 +45,12 @@ const Experience = () => {
                   </div>
                 </div>
                 <div className="card-duration">
-                  <h3>Sep, 2023 - Feb, 2024</h3>
+                  <h3>Sep, 23 - Feb, 2024</h3>
                 </div>
               </div>
               <div className="card-content">
                 <ul>
-                  <li>⚡<p>I worked on a Content Management System (CMS) project, contributing to the development and enhancement of digital content management solutions.</p></li>
+                  <li>⚡<p>I worked on a <b>Content Management System (CMS)</b> project, contributing to the development and enhancement of digital content management solutions.</p></li>
                   <li>⚡<p>Assisting in the design, development, and implementation of CMS features.</p></li>
                   <li>⚡<p>Writing clean, efficient, and maintainable code to improve content organization and accessibility.</p></li>
                   <li>⚡<p>Collaborating with cross-functional teams to integrate user-friendly interfaces and backend functionalities.</p></li>
@@ -59,9 +59,13 @@ const Experience = () => {
                   <li>⚡<p>This experience helped me strengthen my technical skills in web development and gain hands-on exposure to real-world software engineering practices.</p></li>
                   <li>
                     <div className="icons">
-                      <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+                      <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-                      <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" />
+                      <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+                      <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+                      <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
                       <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
