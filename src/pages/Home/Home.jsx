@@ -86,8 +86,6 @@ const Home = () => {
 
                             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
                             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
                         </div>
                         <div className="skills-content item item2">
@@ -127,13 +125,13 @@ const Home = () => {
                         </div>
                         <div className="software-skills item item1">
 
-                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-
-                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
                             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
                             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
                             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
@@ -142,9 +140,59 @@ const Home = () => {
 
                             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
 
                         </div>
                     </div>
+
+                    <div className="skills-main">
+                        <div className="software-skills item item1">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />
+
+
+                        </div>
+                        
+                        
+                        <div className="skills-content item item2">
+                            <div className="skills-main-heading">
+                                <h2>Development Tools</h2>
+                            </div>
+                            <ul>
+                                <li>⚡
+                                    <p>I have hands-on experience developing tools like IntelliJ IDEA, Eclipse, Spring Boot, and VS Code.</p>
+                                </li>
+                                <li>⚡
+                                    <p>I have automated CI/CD pipelines with Jenkins and GitHub Actions, tested APIs using Postman, and optimized IAM security solutions. </p>
+                                </li>
+                                <li>⚡
+                                    <p>Overall, my expertise lies in full-stack development, API security, cloud deployments, and DevOps, ensuring scalable, secure, and high-performing IAM solutions.</p>
+                                </li>
+                            </ul>
+                        </div>
+                        </div>
+
+
                 </div>
             </div>
         </div>
