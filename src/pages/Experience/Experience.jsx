@@ -34,7 +34,7 @@ const Experience = () => {
 
               <div className="card-header">
                 <div className="card-img">
-                  <img src="../src/assets/digital.jpeg" alt="" srcset="" />
+                  <img src="/image/digital.jpeg" alt="" srcset="" />
                 </div>
                 <div className="card-title">
                   <div className="role-name">
