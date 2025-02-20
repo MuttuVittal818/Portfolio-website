@@ -39,7 +39,7 @@ const Contact = () => {
               <ul>
                 <li><a href="https://leetcode.com/u/Muttu_Handigund/"><img src="/icons/leetcode.png" /></a>
                 </li>
-                <li><a href="https://auth.geeksforgeeks.org/user/rakshithr0177/practice"><img src="/icons/geeksforgeeks.png" /></a>
+                <li><a href="https://www.hackerrank.com/profile/muttuvittal818"><img src="/icons/hackerrank.png" /></a>
                 </li>
               </ul>
             </div>

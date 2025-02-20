@@ -25,6 +25,7 @@ const Projects = () => {
         <div className="project-work-heading">
           <h1>Here's my projects</h1>
         </div>
+
         <div className="project-work-body">
           <div className="project-work-card card">
             <div className="project-work-img item1">
@@ -40,7 +41,7 @@ const Projects = () => {
 
                 </div>
                 <div className="project-work-duration">
-                  <h3>June, 2023</h3>
+                  <h3>June, 2022</h3>
                   <div className="project-work-links">
                     <a href="https://qr-codes-generater-and-reader-web-project.vercel.app/"><OpenInNewSharpIcon /></a>
                     <a href="https://github.com/MuttuVittal818/QR-Codes-Generater-and-Reader-Web-Project"><GitHubIcon /></a>
@@ -70,12 +71,13 @@ const Projects = () => {
 
                       <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-
                     </div>
                   </li>
-                </ul></div>
+                </ul>
+              </div>
             </div>
           </div>
+
 
           <div className="project-work-card card">
             <div className="project-work-img item1">
@@ -88,10 +90,10 @@ const Projects = () => {
                     <h2>Sorting Visualizer</h2>
                     <h3>Static website</h3>
                   </div>
-
                 </div>
-                <div className="project-work-duration">
-                  <h3>January, 2022</h3>
+
+        <div className="project-work-duration">
+                  <h3>January, 2023</h3>
                   <div className="project-work-links">
                     <a href="https://sortingvisualizerwebapplication.vercel.app/"><OpenInNewSharpIcon /></a>
                     <a href="https://github.com/MuttuVittal818/Fullstack_Web"><GitHubIcon /></a>
@@ -123,9 +125,6 @@ const Projects = () => {
 
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-
-
-
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
                     </div>
                   </li>
@@ -133,7 +132,67 @@ const Projects = () => {
               </div>
             </div>
           </div>
-        </div>
+
+
+          <div className="project-work-card card">
+            <div className="project-work-img item1">
+              <img src="/image/project3.png" />
+            </div>
+            <div className="project-work-content">
+              <div className="project-work-header">
+                <div className="project-work-heading">
+                  <div className="project-work-title">
+                    <h2>Accident-Data-Analysis</h2>
+                    <h3>Machine Learning</h3>
+                  </div>
+                </div>
+
+        <div className="project-work-duration">
+                  <h3>March, 2024</h3>
+                  <div className="project-work-links">
+                    <a href="https://accident-data-analysis-machine-learning-project.streamlit.app/"><OpenInNewSharpIcon /></a>
+                    <a href="https://github.com/MuttuVittal818/Accident-Data-Analysis"><GitHubIcon /></a>
+                  </div>
+                </div>
+              </div>
+              <div className="project-work-body item2">
+                <ul>
+                  <li>⚡
+                    <p>Tech Stack: Python,  Scikit-learn, XGBoost, Jupyter Notebook,  Flask API and Streamlit App</p>
+                  </li>
+                  <li>⚡
+                    <p>It’s a ML-based accident prediction system using Streamlit for UI.</p>
+                  </li>
+                  <li>⚡
+                    <p>Data is collected → Cleaned → ML Model Trained → Deployed via Streamlit.</p>
+                  </li>
+                  <li>⚡
+                    <p>Saved model using Pickle, loaded it into Streamlit, and used Flask API.</p>
+                  </li>
+                  <li>⚡
+                    <p>Simple UI for data science, integrates easily with Python & ML models.</p>
+                  </li>
+                  <li>
+                    <div className="icons">
+                      <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+                      <img className="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+
+                      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" />
+
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+
+                      <img src=" https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg"/>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>   
       </div>
     </div>
   )
